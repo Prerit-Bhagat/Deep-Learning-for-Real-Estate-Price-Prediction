@@ -14,8 +14,7 @@ This project leverages deep learning techniques to predict real estate prices ba
   - `sqft_living`, `sqft_lot`: Measures of property size.
   - `waterfront`, `view`: Attributes for location desirability.
   - `yr_built`, `yr_renovated`: Indicators of property age and renovations.
-- **Best Model:** TBD after evaluation.
-- **Best Accuracy:** TBD after model training.
+- **No of Epoch:** 100.
 
 ## **Results**
 ![image](https://github.com/user-attachments/assets/e392a570-a77d-4fbb-a458-d3d9e273c225)
