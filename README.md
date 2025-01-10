@@ -19,4 +19,6 @@ This project uses deep learning techniques to predict real estate prices based o
 
 ## **Results**
 ![image](https://github.com/user-attachments/assets/e392a570-a77d-4fbb-a458-d3d9e273c225)
+
+
 Note - Rest of Graphs (pairplots, histograms, and more) are in the Result Folder
