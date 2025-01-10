@@ -1,6 +1,7 @@
 # Deep Learning for Real Estate Price Prediction
 
 ## **1. METHODOLOGY**
+![image](https://github.com/user-attachments/assets/89b982e2-0c1f-4843-862d-8ea186bc8bb8)
 
 ## **2. Overview**
 This project leverages deep learning techniques to predict real estate prices based on a variety of features. The model explores the impact of feature engineering by progressively increasing the number of independent variables and evaluating their effects on prediction accuracy.
